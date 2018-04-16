@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.practice.abp_news.MainActivity">
+    <item
+        android:id="@+id/home"
+        android:title="home"
+         />
+    <item
+        android:id="@+id/sports"
+        android:title="sports" />
+</menu>
